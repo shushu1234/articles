@@ -1,10 +1,10 @@
 # JVM, JDK, JRE: What's the difference?
 
-> 三个比不可少的Java平台组件，它们如何在你的Java程序中协同工作的呢？
+> 三个必不可少的Java平台组件，它们如何在你的Java程序中协同工作的呢？
 
-新的Java开发者常常对 ` Java Virtual Machine`、` Java Development Kit`、` Java Runtime Environment`感到困惑。他们也好奇这个三个组件是如何在Java程序中协同工作的呢。现在，开发人员需要知道他们将如何与每个组件进行交互。
+新的Java开发者常常对 ` Java Virtual Machine`、` Java Development Kit`、` Java Runtime Environment`感到困惑。也好奇这个三个组件是如何在Java程序中协同工作的？
 
-**简单的说明：**
+**下面作简介的说明：**
 
 * JVM是执行你的程序的Java平台组件
 * JRE创建了JVM并且确保了你的程序的依赖能够被使用
